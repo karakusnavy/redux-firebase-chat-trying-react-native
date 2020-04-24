@@ -1,0 +1,2 @@
+export const SELECTED_NAME = "SELECTED_NAME"
+export const CURRENT_PAGE = "CURRENT_PAGE"
